@@ -1,31 +1,19 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+Our Goal
 
-# Dicee
+In this tutorial, we aim to introduce you to fundamental programming concepts that will serve as the foundation for building most apps in the future. By building this dice app, you will gain valuable knowledge and experience that will be essential for your app development journey.
 
-## Our Goal
+What You Will Create
 
-The objective of this tutorial is to introduce you to the core programming concepts that will form the foundation of most of the apps you’ll build in the future. This app will teach you a lot of important programming knowledge, while building a neat dice app.
+We are going to create a Las Vegas-style dice app. This app will allow you to roll the dice either by tapping a button or shaking your phone. With this app on your phone, you’ll be ready to resolve any dispute, anytime, anywhere!
 
-## What you will create
+What You Will Learn
 
-We’re going to make a Las Vegas dice app. You can make the die roll at the press of a button or by shaking your phone. With this app in your pocket, you’ll be fully set up to settle any score on the go!
-
-
-## What you will learn
-
-* How to clone an existing Xcode project from GitHub.
-* Create an app with behaviour and functionality.
-* Create links between the Interface Builder files and code using IBActions and IBOutlets.
-* Get familiar with the Xcode code editor.
-* * Learn to use comments to annotate code.
-* Understand and use Swift constants and variables.
-* Understand and use collection types such as Swift arrays.
-* Test and debug your app with the Xcode console.
-* Learn about randomisation and how to generate random numbers in Swift.
-
-
-
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](Documentation/readme-end-banner.png)
-
+How to clone an existing Xcode project from GitHub.
+How to create an app with dynamic behavior and functionality.
+How to link Interface Builder files to code using IBActions and IBOutlets.
+Get comfortable with the Xcode code editor.
+How to use comments to annotate your code.
+How to work with Swift constants and variables.
+How to use collection types like Swift arrays.
+How to test and debug your app using the Xcode console.
+An introduction to randomization and generating random numbers in Swift.
